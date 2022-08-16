@@ -2,6 +2,14 @@
 
 Solving real-world problems regarding data structures, transformations and predictions is my passion.  As a physics graduate, I have a broad general understanding of scientific domains, and as such, I have experience analyzing and solving problems in many different contexts. I love to dive into new technologies and learn new programming skills on my way to completing a task. 
 
+• Able to interpret and analyse data in order to drive growth for a company. 
+• Furnish insights, analytics, and business intelligence needed to guide decisions. 
+• Outstanding problem-solving abilities, with excellent analytical skills.
+• Experienced in dealing with hard theoretical mathematical problems
+• Excellent organisation skills with the ability to prioritise workload with the flexibility to respond positively to changing demands.
+
+
+
 <!--
 **Eva-Zeqiraj/Eva-Zeqiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
